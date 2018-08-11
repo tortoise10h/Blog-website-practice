@@ -1,2 +1,2 @@
 # Blog-website-practice
-make blog with responsive and grid
+practice HTML and CSS: make blog with responsive and grid
